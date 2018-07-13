@@ -1,5 +1,7 @@
 **Symbus**
 
+A simple bus-tracker android app to help be always onboard !
+
 Demo video available <a href="https://drive.google.com/file/d/1BiNHV55i71eUd1dPjl8eqaD009AuoCo9/view?usp=sharing">here</a>
 
 Feel free to star/fork/contribute via pull requests !
